@@ -6,7 +6,7 @@ import './NavBar.css';
 function NavBar() {
   return (
     <nav className="navbar">
-      <div className="logo">Antaraaaa</div>
+      <div className="logo">Sunshine</div>
     </nav>
   );
 }
