@@ -24,7 +24,7 @@ function CakeGame() {
         <div className="modal">
           <div className="modal-content">
             <h2>Happy Birthday!</h2>
-            <p>Wishing you a day filled with joy, laughter, and unforgettable moments!</p>
+            <p>Wishing you a day filled with joy, laughter, and unforgettable moments! I like you so much.</p>
             <button className="close-btn" onClick={closeModal}>
               Close
             </button>
