@@ -23,8 +23,10 @@ function CakeGame() {
       {isModalOpen && (
         <div className="modal">
           <div className="modal-content">
-            <h2>Happy Birthday!</h2>
-            <p>Wishing you a day filled with joy, laughter, and unforgettable moments!</p>
+            <h2>Happy birthday!</h2>
+            <p>
+Hey gorgeous, happy birthday! Reflecting on all the beautiful memories we've shared fills my heart with joy. Here's to celebrating you today and cherishing every moment we've had together. You mean everything to me, today and always!</p>
+<p>PS : The pink outfit is perfect, literally the inspiration for this website(pink look)</p>
             <button className="close-btn" onClick={closeModal}>
               Close
             </button>
